@@ -1,0 +1,10 @@
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\bin\Debug\Ejemplo_2.exe.config
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\bin\Debug\Ejemplo_2.exe
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\bin\Debug\Ejemplo_2.pdb
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\obj\Debug\Ejemplo_2.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\obj\Debug\Ejemplo_2.Form1.resources
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\obj\Debug\Ejemplo_2.Properties.Resources.resources
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\obj\Debug\Ejemplo_2.csproj.GenerateResource.cache
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\obj\Debug\Ejemplo_2.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\obj\Debug\Ejemplo_2.exe
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_2\obj\Debug\Ejemplo_2.pdb

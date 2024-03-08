@@ -1,0 +1,15 @@
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\bin\Debug\net8.0\Ejemplo_4.exe
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\bin\Debug\net8.0\Ejemplo_4.deps.json
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\bin\Debug\net8.0\Ejemplo_4.runtimeconfig.json
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\bin\Debug\net8.0\Ejemplo_4.dll
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\bin\Debug\net8.0\Ejemplo_4.pdb
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.AssemblyInfoInputs.cache
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.AssemblyInfo.cs
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.sourcelink.json
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.dll
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\refint\Ejemplo_4.dll
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.pdb
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\Ejemplo_4.genruntimeconfig.cache
+C:\Users\Christian\Source\Repos\Guia_1_Progra2\Ejemplo_4\obj\Debug\net8.0\ref\Ejemplo_4.dll

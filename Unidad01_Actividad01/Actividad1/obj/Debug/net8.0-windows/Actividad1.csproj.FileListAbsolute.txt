@@ -1,0 +1,16 @@
+C:\Users\Christian\source\repos\Actividad1\Actividad1\bin\Debug\net8.0-windows\Actividad1.exe
+C:\Users\Christian\source\repos\Actividad1\Actividad1\bin\Debug\net8.0-windows\Actividad1.deps.json
+C:\Users\Christian\source\repos\Actividad1\Actividad1\bin\Debug\net8.0-windows\Actividad1.runtimeconfig.json
+C:\Users\Christian\source\repos\Actividad1\Actividad1\bin\Debug\net8.0-windows\Actividad1.dll
+C:\Users\Christian\source\repos\Actividad1\Actividad1\bin\Debug\net8.0-windows\Actividad1.pdb
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.AssemblyInfo.cs
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.dll
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\refint\Actividad1.dll
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.pdb
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.genruntimeconfig.cache
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\ref\Actividad1.dll
+C:\Users\Christian\source\repos\Actividad1\Actividad1\obj\Debug\net8.0-windows\Actividad1.Actividad1.resources

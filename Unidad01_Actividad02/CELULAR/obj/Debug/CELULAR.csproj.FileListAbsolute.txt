@@ -1,0 +1,10 @@
+C:\Users\mauricio\Desktop\proyec\CELULAR\bin\Debug\CELULAR.exe.config
+C:\Users\mauricio\Desktop\proyec\CELULAR\bin\Debug\CELULAR.exe
+C:\Users\mauricio\Desktop\proyec\CELULAR\bin\Debug\CELULAR.pdb
+C:\Users\mauricio\Desktop\proyec\CELULAR\obj\Debug\CELULAR.csproj.AssemblyReference.cache
+C:\Users\mauricio\Desktop\proyec\CELULAR\obj\Debug\CELULAR.Form1.resources
+C:\Users\mauricio\Desktop\proyec\CELULAR\obj\Debug\CELULAR.Properties.Resources.resources
+C:\Users\mauricio\Desktop\proyec\CELULAR\obj\Debug\CELULAR.csproj.GenerateResource.cache
+C:\Users\mauricio\Desktop\proyec\CELULAR\obj\Debug\CELULAR.csproj.CoreCompileInputs.cache
+C:\Users\mauricio\Desktop\proyec\CELULAR\obj\Debug\CELULAR.exe
+C:\Users\mauricio\Desktop\proyec\CELULAR\obj\Debug\CELULAR.pdb

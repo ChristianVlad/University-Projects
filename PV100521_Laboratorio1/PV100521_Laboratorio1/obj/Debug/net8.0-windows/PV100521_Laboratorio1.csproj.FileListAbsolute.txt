@@ -1,0 +1,16 @@
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\bin\Debug\net8.0-windows\PV100521_Laboratorio1.exe
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\bin\Debug\net8.0-windows\PV100521_Laboratorio1.deps.json
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\bin\Debug\net8.0-windows\PV100521_Laboratorio1.runtimeconfig.json
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\bin\Debug\net8.0-windows\PV100521_Laboratorio1.dll
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\bin\Debug\net8.0-windows\PV100521_Laboratorio1.pdb
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.Form1.resources
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.AssemblyInfo.cs
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.dll
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\refint\PV100521_Laboratorio1.dll
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.pdb
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\PV100521_Laboratorio1.genruntimeconfig.cache
+C:\Users\Christian\Desktop\PV100521_Laboratorio1\PV100521_Laboratorio1\obj\Debug\net8.0-windows\ref\PV100521_Laboratorio1.dll

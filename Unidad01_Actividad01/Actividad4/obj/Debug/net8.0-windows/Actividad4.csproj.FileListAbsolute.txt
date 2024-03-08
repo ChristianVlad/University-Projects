@@ -1,0 +1,8 @@
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Analisis4.Form1.resources
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Actividad4.Properties.Resources.resources
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Actividad4.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Actividad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Actividad4.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Actividad4.AssemblyInfo.cs
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Actividad4.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Actividad1\Actividad4\obj\Debug\net8.0-windows\Actividad4.sourcelink.json
