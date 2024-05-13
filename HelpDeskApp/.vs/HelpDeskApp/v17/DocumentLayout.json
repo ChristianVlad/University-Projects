@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\helpdeskapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|solutionrelative:helpdeskapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\helpdeskapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|solutionrelative:helpdeskapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\helpdeskapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|solutionrelative:helpdeskapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HelpDeskApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HelpDeskApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T19:59:32.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Web.config",
+              "RelativeDocumentMoniker": "HelpDeskApp\\Web.config",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Web.config",
+              "RelativeToolTip": "HelpDeskApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-12T06:27:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HelpDeskApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HelpDeskApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:13:49.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

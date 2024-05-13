@@ -1,0 +1,57 @@
+﻿@model List<LABORATORIO03_PV100521.Models.Libro>
+
+@{
+    ViewBag.Title = "Inicio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" style="margin-top:30px">
+    <div class="col-sm-12">
+        <div class="panel panel-warning">
+            <div class="panel-heading">
+                <h4>Lista de Contacto</h4>
+            </div>
+            <div class="panel-body">
+                <a class="btn btn-success" href="@Url.Action("Registrar", "Libro")">Crear Nuevo</a>
+                <hr />
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>CodigoLibro</th>
+                                <th>TituloLibro</th>
+                                <th>ISBN</th>
+                                <th>FechaEdicion</th>
+                                <th>NombreAutorLibro</th>
+                                <th>ApellidoAutorLibro</th>
+                                <th>FechaNacimientoAutor</th>
+                           
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (LABORATORIO03_PV100521.Models.Libro item in Model)
+                            {
+                                <tr>
+                                    <td>@item.CodigoLibro</td>
+                                    <td>@item.TituloLibro</td>
+                                    <td>@item.ISBN</td>
+                                    <td>@item.FechaEdicion</td>
+                                    <td>@item.NombreAutorLibro</td>
+                                    <td>@item.ApellidoAutorLibro</td>
+                                    <td>@item.FechaNacimientoAutor</td>
+                                    
+                                    <td>
+                                        <a class="btn btn-primary btn-sm" href="@Url.Action("Edit", "Libro", new {CodigoLibro=item.CodigoLibro})">Editar</a>
+                                        <a class="btn btn-danger btn-sm" href="@Url.Action("Eliminar", "Libro", new {CodigoLibro=item.CodigoLibro})">Eliminar</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian\\Desktop\\Github Projects\\PV100521_GUIA8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christian\\AppData\\Local\\Temp\\.vsdbgsrc\\19e46fc2fe8018b2de8708831c04f5978fdfc210f1e968bac626732501540792\\ContactoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A190A1B8-737B-48DB-B2E1-DB48F43355ED}|PV100521_GUIA8\\PV100521_GUIA8.csproj|c:\\users\\christian\\desktop\\github projects\\pv100521_guia8\\pv100521_guia8\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A190A1B8-737B-48DB-B2E1-DB48F43355ED}|PV100521_GUIA8\\PV100521_GUIA8.csproj|solutionrelative:pv100521_guia8\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactoController.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\AppData\\Local\\Temp\\.vsdbgsrc\\19e46fc2fe8018b2de8708831c04f5978fdfc210f1e968bac626732501540792\\ContactoController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\19e46fc2fe8018b2de8708831c04f5978fdfc210f1e968bac626732501540792\\ContactoController.cs",
+              "ToolTip": "C:\\Users\\Christian\\AppData\\Local\\Temp\\.vsdbgsrc\\19e46fc2fe8018b2de8708831c04f5978fdfc210f1e968bac626732501540792\\ContactoController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\19e46fc2fe8018b2de8708831c04f5978fdfc210f1e968bac626732501540792\\ContactoController.cs [Read Only]",
+              "ViewState": "AQIAAA8AAAAAAAAAAAArwBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:10:46.932Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactoController.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\PV100521_GUIA8\\PV100521_GUIA8\\Controllers\\ContactoController.cs",
+              "RelativeDocumentMoniker": "PV100521_GUIA8\\Controllers\\ContactoController.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\PV100521_GUIA8\\PV100521_GUIA8\\Controllers\\ContactoController.cs",
+              "RelativeToolTip": "PV100521_GUIA8\\Controllers\\ContactoController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:09:26.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
