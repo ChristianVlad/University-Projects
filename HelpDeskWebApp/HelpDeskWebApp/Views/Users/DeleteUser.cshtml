@@ -1,0 +1,30 @@
+﻿@model HelpDeskWebApp.Models.Users
+
+@{
+    ViewBag.Title = "DeleteUser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Delete User</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h2>Delete User</h2>
+        <div class="alert alert-danger" role="alert">
+            <p>Are you sure you want to delete the user with ID: @Model.id?</p>
+            <form action="@Url.Action("DeleteUser", "Users")" method="post">
+                <input type="hidden" name="id" value="@Model.id">
+                <input type="submit" class="btn btn-danger" value="Yes, Delete">
+                <a href="@Url.Action("Index", "Users")" class="btn btn-secondary">Cancel</a>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

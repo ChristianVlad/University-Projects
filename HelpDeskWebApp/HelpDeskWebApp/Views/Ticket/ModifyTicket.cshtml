@@ -1,0 +1,66 @@
+﻿@model HelpDeskWebApp.Models.Ticket
+
+@{
+    ViewBag.Title = "Modify Ticket";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Modify Ticket</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Additional CSS styles */
+        .custom-container {
+            margin-top: 50px; /* Adjust the top margin to move the container down */
+            margin-left: 20px; /* Adjust the left margin to move the container to the left */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container custom-container" style="margin-top:15px">
+        <div class="row">
+            <div class="col-sm-15">
+                <form action="@Url.Action("ModifyTicket", "Ticket")" method="post">
+                    <div class="form-group">
+                        <label>Ticket Status:</label>
+                        <select name="Ticket_Status" class="form-control">
+                            <option value="1" @(Model.Ticket_Status == "Open" ? "selected" : "")>Open</option>
+                            <option value="2" @(Model.Ticket_Status == "In Progress" ? "selected" : "")>In Progress</option>
+                            <option value="3" @(Model.Ticket_Status == "Closed" ? "selected" : "")>Closed</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Ticket Department:</label>
+                        <select name="Id_department" class="form-control">
+                            <option value="1" @(Model.Id_department == 1 ? "selected" : "")>Technologies</option>
+                            <option value="2" @(Model.Id_department == 2 ? "selected" : "")>Sales</option>
+                            <option value="3" @(Model.Id_department == 3 ? "selected" : "")>Administration</option>
+                            <option value="4" @(Model.Id_department == 4 ? "selected" : "")>Marketing</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>User ID:</label>
+                        <input type="text" name="Id_User" class="form-control" value="@Model.Id_User"><br>
+                    </div>
+                    <div class="form-group">
+                        <label>Ticket Description:</label><br>
+                        <textarea name="Ticket_Description" rows="3" cols="50" class="form-control">@Model.Ticket_Description</textarea><br>
+                    </div>
+                    <div class="form-group">
+                        <label>Ticket Resolution:</label><br>
+                        <textarea name="Ticket_Resolution" rows="3" cols="50" class="form-control">@Model.Ticket_Resolution</textarea><br>
+                    </div>
+                    <input type="hidden" name="Id_Ticket" value="@Model.Id_Ticket" />
+                    <input type="submit" value="Update" class="btn btn-primary">
+                    <a class="btn btn-warning" href="@Url.Action("Index", "Ticket")">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

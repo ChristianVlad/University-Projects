@@ -1,0 +1,29 @@
+﻿@model HelpDeskWebApp.Models.Ticket
+
+@{
+    ViewBag.Title = "DeleteTicket";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Delete Ticket</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h2>Delete Ticket</h2>
+        <div class="alert alert-danger" role="alert">
+            <p>Are you sure you want to delete the ticket with ID: @Model.Id_Ticket?</p>
+            <form action="@Url.Action("DeleteTicket", "Ticket")" method="post">
+                <input type="hidden" name="id_ticket" value="@Model.Id_Ticket">
+                <input type="submit" class="btn btn-danger" value="Yes, Delete">
+                <a href="@Url.Action("Index", "Ticket")" class="btn btn-secondary">Cancel</a>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

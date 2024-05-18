@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>
+    <a style="float:right" href="@Url.Action("AddTicket", "Ticket")"><i class="fa-solid fa-puzzle-piece"></i></a>
+    Ticket Listing
+</h2>
+
+<hr />
+
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th># Ticket</th>
+            <th>Generation date</th>
+            <th>Ticket Status</th>
+            <th>Department</th>
+            <th>Assignated to</th>
+            <th>Description</th>
+            <th>Resolution</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+       @foreach (var Ticket in Model) 
+       { 
+            <tr>
+                <td>@Ticket.Id_Ticket</td>
+                <td>@Ticket.Date_Generation</td>
+                <td>@Ticket.Ticket_Status</td>
+                <td>@Ticket.department</td>
+                <td>@Ticket.user_name</td>
+                <td>@Ticket.Ticket_Description</td>
+                <td>@Ticket.Ticket_Resolution</td>
+                <td style="text-align: center;">
+                    <a href="@Url.Action("ModifyTicket", "Ticket", new { id = Ticket.Id_Ticket })"><i class="fa-solid fa-file-pen"></i></a>
+                    <a href="@Url.Action("DeleteTicket", "Ticket", new { id = Ticket.Id_Ticket })"><i class="fa-solid fa-trash"></i></a>
+                </td>
+            </tr>    
+       }
+    </tbody>
+</table>

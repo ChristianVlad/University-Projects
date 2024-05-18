@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>
+    <a style="float:right" href="@Url.Action("AddUser", "Users")"><i class="fa-solid fa-user-plus"></i></a>
+    User Listing
+</h2>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Role</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.id</td>
+                    <td>@user.name</td>
+                    <td>@user.email</td>
+                    <td>@user.rol</td>
+                    <td style="text-align: center;">
+                        <a href="@Url.Action("ModifyUser", "Users", new { id = user.id })"><i class="fa-solid fa-file-pen"></i></a>
+                        <a href="@Url.Action("DeleteUser", "Users", new { id = user.id })"><i class="fa-solid fa-trash"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\helpdeskapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskapp\\helpdeskapp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|solutionrelative:helpdeskapp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskapp\\helpdeskapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F2FFFE04-FD0F-4172-972F-C3F224E6648F}|HelpDeskApp\\HelpDeskApp.csproj|solutionrelative:helpdeskapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "HelpDeskApp\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "HelpDeskApp\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:39:15.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HelpDeskApp\\Views\\Shared\\_Layout.cshtml",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Web.config",
               "RelativeDocumentMoniker": "HelpDeskApp\\Web.config",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskApp\\HelpDeskApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HelpDeskApp\\Controllers\\HomeController.cs",

@@ -66,4 +66,14 @@ AS
 BEGIN
 	DELETE FROM LIBROS WHERE codigo_libro = @codigo_libro
 END
-
+
+
+
+CREATE PROCEDURE SP_DeleteTicket
+    @Id_Ticket INT
+AS
+BEGIN
+    -- Delete the ticket from the TicketsMaster table
+    DELETE FROM Tickets WHERE Id_Ticket = @Id_Ticket;
+END
+DROP PROCEDURE IF EXISTS SP_DeleteTicket;

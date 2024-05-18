@@ -1,0 +1,46 @@
+﻿@model HelpDeskWebApp.Models.Users
+
+@{
+    ViewBag.Title = "AddUser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add User</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            @using (Html.BeginForm("AddUser", "Users", FormMethod.Post, new { @class = "form" }))
+            {
+                <div class="form-group">
+                    @Html.LabelFor(model => model.name, htmlAttributes: new { @class = "control-label" })
+                    @Html.TextBoxFor(model => model.name, new { @class = "form-control" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label" })
+                    @Html.TextBoxFor(model => model.email, new { @class = "form-control", type = "email" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.password, htmlAttributes: new { @class = "control-label" })
+                    @Html.PasswordFor(model => model.password, new { @class = "form-control" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.rol, htmlAttributes: new { @class = "control-label" })
+                    @Html.DropDownListFor(model => model.rol, new SelectList(new[] {
+                        new SelectListItem { Text = "Admin", Value = "Admin" },
+                        new SelectListItem { Text = "User", Value = "User" },
+                        new SelectListItem { Text = "Technician", Value = "Technician" }
+                    }, "Value", "Text"), "Select Role", new { @class = "form-control" })
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <a class="btn btn-warning" href="@Url.Action("Index", "Users")">Cancel</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
