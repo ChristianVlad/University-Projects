@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\views\\users\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\views\\users\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\views\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\views\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\views\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|c:\\users\\christian\\desktop\\github projects\\helpdeskwebapp\\helpdeskwebapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\permissions\\permissionsrolattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\permissions\\permissionsrolattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\helpdeskwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ECC85-063E-493A-8B7E-17F021157A18}|HelpDeskWebApp\\HelpDeskWebApp.csproj|solutionrelative:helpdeskwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +58,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "HelpDeskWebApp\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "HelpDeskWebApp\\Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA4AAAA",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HelpDeskWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T22:48:09.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
-              "RelativeDocumentMoniker": "HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
-              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
-              "RelativeToolTip": "HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T22:48:06.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeleteUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\DeleteUser.cshtml",
-              "RelativeDocumentMoniker": "HelpDeskWebApp\\Views\\Users\\DeleteUser.cshtml",
-              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\DeleteUser.cshtml",
-              "RelativeToolTip": "HelpDeskWebApp\\Views\\Users\\DeleteUser.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T22:47:02.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TicketController.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\TicketController.cs",
-              "RelativeDocumentMoniker": "HelpDeskWebApp\\Controllers\\TicketController.cs",
-              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\TicketController.cs",
-              "RelativeToolTip": "HelpDeskWebApp\\Controllers\\TicketController.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAiwGsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T22:46:04.019Z",
+              "WhenOpened": "2024-05-21T04:53:03.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HelpDeskWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:53:00.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "HelpDeskWebApp\\Views\\Access\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:26:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
+              "RelativeToolTip": "HelpDeskWebApp\\Views\\Users\\AddUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:23:01.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermissionsRolAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Permissions\\PermissionsRolAttribute.cs",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Permissions\\PermissionsRolAttribute.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Permissions\\PermissionsRolAttribute.cs",
+              "RelativeToolTip": "HelpDeskWebApp\\Permissions\\PermissionsRolAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:22:41.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Models\\Users.cs",
               "RelativeDocumentMoniker": "HelpDeskWebApp\\Models\\Users.cs",
@@ -102,34 +131,79 @@
               "RelativeToolTip": "HelpDeskWebApp\\Models\\Users.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T22:37:51.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T04:22:37.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "HelpDeskWebApp\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "HelpDeskWebApp\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAALgAAAAAAAAAAAAmwMkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T22:34:53.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "HelpDeskWebApp\\Models\\Ticket.cs",
               "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Models\\Ticket.cs",
               "RelativeToolTip": "HelpDeskWebApp\\Models\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T22:13:07.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T04:22:32.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Models\\Rol.cs",
+              "RelativeToolTip": "HelpDeskWebApp\\Models\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:22:25.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HelpDeskWebApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:22:09.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "HelpDeskWebApp\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:31:18.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HelpDeskWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:22:00.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "HelpDeskWebApp\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\Christian\\Desktop\\Github Projects\\HelpDeskWebApp\\HelpDeskWebApp\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "HelpDeskWebApp\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:21:54.95Z"
             }
           ]
         }

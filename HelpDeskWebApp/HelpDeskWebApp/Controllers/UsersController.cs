@@ -19,6 +19,7 @@ namespace HelpDeskWebApp.Controllers
         private static string connect = ConfigurationManager.ConnectionStrings["conexion"].ToString();
         private static List<Users> UserList = new List<Users>();
 
+        [PermissionsRol("Admin")]
         public ActionResult Index()
         {
             List<Users> userList = new List<Users>();
@@ -80,7 +81,7 @@ namespace HelpDeskWebApp.Controllers
             { "Technician", 3 }
         };
 
-
+        [PermissionsRol("Admin")]
         [HttpGet]
         public ActionResult AddUser()
         {
@@ -120,7 +121,7 @@ namespace HelpDeskWebApp.Controllers
             return RedirectToAction("Index", "Users");
         }
 
-
+        [PermissionsRol("Admin")]
         [HttpGet]
         public ActionResult ModifyUser(int id)
         {
@@ -199,31 +200,61 @@ namespace HelpDeskWebApp.Controllers
 
         [PermissionsRol("Admin")]
         [HttpGet]
-        public ActionResult DeleteUser(int? id)
+        public ActionResult DeleteUser(int id)
         {
-            Users deleteUsers = UserList.FirstOrDefault(c => c.id == id);
-            if (deleteUsers == null)
+            Users deleteUser = null;
+
+            using (SqlConnection connection = new SqlConnection(connect))
+            {
+                string query = "SELECT * FROM Users WHERE id = @id";
+
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@id", id);
+                    connection.Open();
+
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            deleteUser = new Users
+                            {
+                                id = Convert.ToInt32(reader["id"]),
+                                name = reader["name"].ToString(),
+                                email = reader["email"].ToString(),
+                                password = reader["password"].ToString(),
+                                rol = reader["rol"].ToString(),
+                                id_rol = (Rol)Convert.ToInt32(reader["id_rol"])
+                            };
+                        }
+                    }
+                }
+            }
+
+            if (deleteUser == null)
             {
                 return HttpNotFound();
             }
-            return View(deleteUsers);
+            return View(deleteUser);
         }
 
-        [HttpPost]
-        public ActionResult DeleteUser(Users deleteUsers)
+        // POST: Users/Delete/5
+        [HttpPost, ActionName("DeleteUser")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteUserConfirmed(int id)
         {
-            // Delete the ticket from the database based on the ticket's ID
-            using (SqlConnection oconexion = new SqlConnection(connect))
+            using (SqlConnection connection = new SqlConnection(connect))
             {
-                oconexion.Open();
-                SqlCommand cmd = new SqlCommand("SP_Delete_User", oconexion);
+                connection.Open();
+                SqlCommand cmd = new SqlCommand("SP_Delete_User", connection);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@id", deleteUsers.id);
+                cmd.Parameters.AddWithValue("@id", id);
                 cmd.ExecuteNonQuery();
             }
 
             return RedirectToAction("Index", "Users");
         }
-
     }
+
 }
+
